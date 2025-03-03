@@ -8,4 +8,3 @@ COPY . /var/www/html
 
 # Set the working directory  
 WORKDIR /var/www/html
-This configuration uses PHP 8.0 with Apa
